@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "503402337962",
+    "project_id": "pani-lao-372909",
+    "storage_bucket": "pani-lao-372909.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503402337962:android:a64111294ffb8ac7b0a2d3",
+        "android_client_info": {
+          "package_name": "com.riderapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "503402337962-lcqk7fi3icpivntrfrs7m26kaf12ls06.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.riderapp",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "503402337962-gbdst1doa6r8nuinbs7iderbj2csk816.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARaqxTMppKGOpRmlrmy3uSCvLmXil1kdc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "503402337962-gbdst1doa6r8nuinbs7iderbj2csk816.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
